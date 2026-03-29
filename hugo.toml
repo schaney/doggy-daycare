@@ -1,4 +1,4 @@
-baseurl = "https://localhost:1313"
+baseurl = "https://schaney.github.io/doggy-daycare/"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
