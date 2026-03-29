@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Universal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Universal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;our-history&#34;&gt;Our History&lt;/h3&gt;&#xA;&lt;h3 id=&#34;the-property&#34;&gt;The Property&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;TODO, fill this out&lt;/p&gt;&#xA;&lt;h3 id=&#34;email&#34;&gt;Email&lt;/h3&gt;&#xA;&lt;h3 id=&#34;phone&#34;&gt;Phone?&lt;/h3&gt;</description>
+    </item>
+    <item>
+      <title>FAQ</title>
+      <link>http://localhost:1313/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/faq/</guid>
+      <description>&lt;p&gt;TODO&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-hours&#34;&gt;1. Hours&lt;/h3&gt;&#xA;&lt;p&gt;stuff stuff&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-special-needs&#34;&gt;2. Special Needs&lt;/h3&gt;&#xA;&lt;p&gt;more stuff&lt;/p&gt;&#xA;&lt;h3 id=&#34;3-meet-and-greet&#34;&gt;3. Meet and Greet&lt;/h3&gt;&#xA;&lt;p&gt;etc&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
